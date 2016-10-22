@@ -1,4 +1,3 @@
-@@ -1,717 +0,0 @@
 // EDITED BY SIMPPLR
 /*!
  * jQuery ClassyCountdown
